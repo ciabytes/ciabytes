@@ -9,3 +9,16 @@
     --shadow-color: rgba(0, 0, 0, 0.05);
     --border-color: #e5e7eb;
 }
+
+/* paleta modo escuro (rosa e cinza escuro) */
+[data-theme="dark"] {
+    --bg-color: #1e1e1e; 
+    --card-color: #2c2c2c; 
+    --text-color: #d1d5db; 
+    --heading-color: #ffffff; 
+    --special-text-color: #9ca3af; 
+    --accent-color: #f4bfd4; 
+    --accent-color-dark: #e0acbf;
+    --shadow-color: rgba(0, 0, 0, 0.8);
+    --border-color: #3f3f3f;
+}
