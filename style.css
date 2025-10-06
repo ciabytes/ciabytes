@@ -1,0 +1,11 @@
+/* paleta do modo claro (rosa e branco) */
+:root {
+    --bg-color: #f0f0f0;
+    --card-color: #ffffff;
+    --text-color: #4a4a4a;
+    --special-text-color: #6a6a6a;
+    --accent-color: #f4bfd4;
+    --accent-color-dark: #e0acbf;
+    --shadow-color: rgba(0, 0, 0, 0.05);
+    --border-color: #e5e7eb;
+}
