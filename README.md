@@ -4,4 +4,4 @@
 
 I'm Ciabytes. I like building things, learning by doing, and exploring the connection between business and technology.
 
-Currently sudyng ADS and focusing on back-end, data and Machine Learning. 
+Currently sudying ADS and focusing on back-end, data and Machine Learning. 
